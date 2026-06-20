@@ -50,5 +50,3 @@ DESCRIBE students;
 DESCRIBE courses;
 DESCRIBE enrollments;
 DESCRIBE professors;
-
-show tables
