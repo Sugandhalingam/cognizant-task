@@ -104,7 +104,6 @@ db.feedback.insertMany([
   }
 ]);
 
-// Verify count
 db.feedback.countDocuments();
 
 // Task 2: CRUD Operations
