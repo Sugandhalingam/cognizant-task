@@ -178,7 +178,7 @@ Simply open `index.html` in a browser — no build step required.
 ## 👤 Author
 
 **Sugandhalingam**
-Cognizant Digital Nurture — Python Full Stack Engineering (Deepskilling)
+Cognizant Digital Nurture
 
 ---
 
