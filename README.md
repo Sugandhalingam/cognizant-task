@@ -27,47 +27,6 @@ Two things live side by side here:
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-cognizant-task/
-│
-├── Module1_Python_Backend_Frameworks/
-│   └── Sugandhalingam/
-│       ├── hands_on_1  → hands_on_3   Django + Django REST Framework (models, serializers, APIs)
-│       ├── hands_on_4  → hands_on_5   Flask + Flask-SQLAlchemy + Alembic migrations
-│       ├── hands_on_6  → hands_on_9   FastAPI (schemas, validation, JWT auth & security)
-│       └── hands_on_10                Microservices architecture (API Gateway pattern)
-│
-├── Module2_FrontendDevelopment/
-│   └── Sugandhalingam/
-│       ├── hands_on_1  → hands_on_2   Core HTML5 & CSS3 layouts
-│       ├── hands_on_3  → hands_on_4   Vanilla JavaScript (DOM manipulation, dynamic rendering)
-│       ├── hands_on_5  → hands_on_6   React (components, props, Redux Toolkit state)
-│       ├── hands_on_7                 Angular (routing, components, services)
-│       ├── hands_on_8  → hands_on_10  Vue 3 (Composition API, Pinia, Vue Router, Vite)
-│       └── hands_on_9                 Polished static student portal (HTML/CSS/JS)
-│
-├── Module3_DatabaseIntegration/
-│   └── Sugandhalingam/
-│       ├── hands_on_1.sql → hands_on_3.sql   Schema design, joins, queries
-│       ├── hands_on_4.py / .sql              MySQL performance: N+1 problem & optimization
-│       ├── hands_on_5.js                     Node.js DB connectivity
-│       ├── hands_on_6.pdf                    Transactions & indexing concepts
-│       └── hands_on_7/                       SQLAlchemy ORM models + Alembic migrations
-│
-├── Module4_SeleniumBasics/
-│   └── Sugandhalingam/
-│       ├── hands_on_1 → hands_on_3    Selenium fundamentals & browser automation notes
-│       ├── hands_on_4                 WebDriver setup & environment verification
-│       ├── hands_on_5                 Locator strategies, explicit/implicit waits, XPath
-│       ├── hands_on_6                 Pytest test suite + HTML reporting
-│       └── hands_on_7                 Full Page Object Model (POM) framework
-│
-└── README.md
-```
-
----
 
 ## 🧩 Module Breakdown
 
